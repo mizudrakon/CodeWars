@@ -1,3 +1,8 @@
+/*
+    NARCISSISTIC NUMBER
+    is a given number equal to the sum of its digits powered to the length of the number?
+*/
+
 #include <iostream>
 #include <string>
 #include <cmath>
